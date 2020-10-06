@@ -1,2 +1,2 @@
 # wasm-script
-A tool for in-laying Rust, directly into Typescript/Javascript
+A tool for inlaying Rust, directly into Typescript/Javascript
